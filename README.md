@@ -75,5 +75,5 @@ This project is a part of a technical challenge to create a mobile app using Swi
 ## Screenshot
 |   |   |
 |--------|-----|
-|![Alt text](/Screenshots/1.PNG?raw=true "Screenshot 1") | ![Alt text](/Screenshots/2.PNG?raw=true "Screenshot 2") |
-|![Alt text](/Screenshots/3.PNG?raw=true "Screenshot 3") | ![Alt text](/Screenshots/4.PNG?raw=true "Screenshot 4") |
+|![Alt text](Screenshots/1.png?raw=true "Screenshot 1") | ![Alt text](/Screenshots/2.png?raw=true "Screenshot 2") |
+|![Alt text](/Screenshots/3.png?raw=true "Screenshot 3") | ![Alt text](/Screenshots/4.png?raw=true "Screenshot 4") |
