@@ -29,7 +29,7 @@ This project is a part of a technical challenge to create a mobile app using Swi
 
 ## Solution
 
-![Alt text](/Screenshots/architecture.png?raw=true "Screenshot 1")
+![Alt text](/Screenshots/architecture.png?raw=true "architecture diagram")
 ###### Below are the items that are covered in this project
 - SwiftUI Basic UI displaying Github user list and favorite list
 - MVVM Architecture 
